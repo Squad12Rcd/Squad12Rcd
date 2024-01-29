@@ -1,6 +1,20 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem-vindo(a)!+Somos+o+Squad12.)](https://git.io/typing-svg)
 
-<h4> Bootcamp RECODE PRO 2023/24 </h4>
+<div align="center">
+<h4> PROJETO CONNECTJOB </h4>
+</div>
+
+<div align="center">
+<img src="https://github.com/Squad12Rcd/squad12/blob/c0fcc9da502be57301a3394fb189bfc3d4f7c33b/img/2-PhotoRoom.png">
+</div>
+
+<h2> Sobre o projeto</h2> 
+
+<p> Desenvolvido para o Bootcampo da RECODE PRO 2023/24, o ConnectJob visa conectar o estudante de baixa renda ao conhecimento em tecnologia e oportunidades de trabalho na área.
+O projeto tem como proposta levar conhecimento em áreas de tecnologia para os estudantes de baixa renda interessados em tecnologia e fornecer para empresas cadastro de vagas de emprego. 
+</p>
+
+Link do projeto: https://connectjob-rcd.onrender.com/
 
 
 <img align="right">
@@ -40,5 +54,10 @@
   <a href="https://www.linkedin.com/in/rafael-nascimento61/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href =mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href =""><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+  <li> Myller Tavares </li>
+  <a href="https://www.linkedin.com/in/myller-tavares-863937234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href =mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href ="https://github.com/MyllerT"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
 </div>
